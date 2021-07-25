@@ -1,4 +1,6 @@
 # NYC Citi Bike Analysis
+[link to dashboard](https://public.tableau.com/views/Module14Challenge_16271385671580/NYCCitiBikeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+ "link to dashboard")
 
 ## Overview
 Citi Bikes are hot and popular in NYC, but they can be the next big thing in Des Moines with investor help! The research completed on the August 2019 NYC Citi Bike usage proves that there is a demand for folks to use bikes as a cost efficient alternative to cars - for commuting to work and leisure activities. 
